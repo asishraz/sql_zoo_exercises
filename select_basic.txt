@@ -1,3 +1,6 @@
+https://sqlzoo.net/wiki/SELECT_basics
+
+
 1. Modify it to show the population of Germany
 
 Ans: select population from world where name='Germany';
